@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yal:home|Door43 (yal)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yal|d43-yal repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yal/archive/master.zip|d43-yal.zip]]
+
+**Recent Changes**
+{{changes>ns = yal}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yal|Ethnologue data]]
+
